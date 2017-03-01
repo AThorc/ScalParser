@@ -1,0 +1,7 @@
+{a,b,c,d}
+{S,A,B,C}
+S:A,
+A:ABC,
+A:a,
+B:bd,
+C:c.
